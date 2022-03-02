@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/george/Space/workbench/learning/gf-pizza/gf-pizza.csproj",
+      "projectUniqueName": "/Users/george/Space/workbench/learning/csharp-pizza-api/gf-pizza.csproj",
       "projectName": "gf-pizza",
-      "projectPath": "/Users/george/Space/workbench/learning/gf-pizza/gf-pizza.csproj",
+      "projectPath": "/Users/george/Space/workbench/learning/csharp-pizza-api/gf-pizza.csproj",
       "packagesPath": "/Users/george/.nuget/packages/",
-      "outputPath": "/Users/george/Space/workbench/learning/gf-pizza/obj/",
+      "outputPath": "/Users/george/Space/workbench/learning/csharp-pizza-api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/george/.nuget/NuGet/NuGet.Config"

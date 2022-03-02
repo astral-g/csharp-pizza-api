@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r35R3Ur22rxLENMFL99rZjWRj5BLT24drgA2Zb0/7VuvUIkJfJfcwLvOUBzS7cHf8mv4dHUexWk9utIa1rBOgA==",
+  "dgSpecHash": "aXP4rW5wiTkajNDUfQG4/SOb1KXHy15hLUPeK2wbTJVuYL8Ur4ZokdV7QuJyZwp4ku15YWI3+zyezzK3PmylCA==",
   "success": true,
-  "projectFilePath": "/Users/george/Space/workbench/learning/gf-pizza/gf-pizza.csproj",
+  "projectFilePath": "/Users/george/Space/workbench/learning/csharp-pizza-api/gf-pizza.csproj",
   "expectedPackageFiles": [
     "/Users/george/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/george/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
